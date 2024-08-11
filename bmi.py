@@ -1,13 +1,12 @@
 height = float(input("Enter your height in m: "))
 weight =  float(input("Enter your weight in kg: "))
 # TODO
-BMI = round(weight/(height**2),1)
-print(f"Your BMI is {BMI}. You are: ")
+BMI = round(weight/(height**2),2)
 if BMI<18.5:
-    print("underweight")
+    print(f"Your bmi is {BMI}, you are underweight.")
 elif BMI<25:
-    print("normal")
+    print(f"Your bmi is {BMI}, your weight is normal.")
 elif BMI<30:
-    print("overweight")
+    print(f"Your bmi is {BMI}, you are overweight.")
 else:
-    print("obese")
+    print(f"Your bmi is {BMI}, you are obese.")
