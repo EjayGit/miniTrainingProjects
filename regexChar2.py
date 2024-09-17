@@ -5,6 +5,6 @@ def extract_date(url):
     mo = regex.findall(url)
     return mo
 
-url = 'https://www.apmillers.com/news/daily/wp/2022/02/02/regular-expressions-patterns/'
+url = 'https://www.appmillers.com/news/daily/wp/2022/02/02/regular-expressions-patterns/'
 
 extract_date(url)

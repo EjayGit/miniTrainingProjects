@@ -8,6 +8,6 @@ def text_match(text):
     else:
         return 'Matched'
 
-text_match("A")
-text_match("ABC")
-text_match("ABBC")
+print(text_match("A"))
+print(text_match("ABC"))
+print(text_match("ABBC"))
