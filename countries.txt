@@ -1,0 +1,12 @@
+country_code;country_name;capital;total_area;population;currency_code;currency_name;lang_name
+AD;Andorra;Andorra la Vella;468;76953;EUR;Euro;Catalana
+AE;United Arab Emirates;Abu Dhabi;83600;9541615;AED;United Arab Emirates Dirham;Arabic
+AF;Afghanistan;Kabul;652230;36373176;AFN;Afghan Afghani;Persian
+AG;Antigua and Barbuda;Saint John's;442;103050;XCD;East Caribbean Dollar;English
+AI;Anguilla;The Valley;91;15045;XCD;East Caribbean Dollar;English
+AL;Albania;Tirana;28748;2934363;ALL;Albanian Lek;Albanian
+AM;Armenia;Yerevan;29743;2934152;AMD;Armenian Dram;Armenian
+AO;Angola;Luanda;1246700;30774205;AOA;Angolan Kwanza;Portuguese
+AQ;Antarctica;-;14000000;0;;;
+AR;Argentina;Buenos Aires;2780400;44688864;ARS;Argentine Peso;Spanish
+AS;American Samoa;Pago Pago;199;55679;USD;United States Dollar;Samoan
