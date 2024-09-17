@@ -1,4 +1,3 @@
-country_code;country_name;capital;total_area;population;currency_code;currency_name;lang_name
 AD;Andorra;Andorra la Vella;468;76953;EUR;Euro;Catalana
 AE;United Arab Emirates;Abu Dhabi;83600;9541615;AED;United Arab Emirates Dirham;Arabic
 AF;Afghanistan;Kabul;652230;36373176;AFN;Afghan Afghani;Persian
